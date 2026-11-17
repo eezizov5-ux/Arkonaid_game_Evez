@@ -1,4 +1,4 @@
-namespace Arkonaid_Game_Project
+namespace Arkonaid_game_Evez
 {
     internal static class Program
     {
