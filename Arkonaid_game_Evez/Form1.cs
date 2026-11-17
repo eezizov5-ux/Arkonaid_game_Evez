@@ -2,7 +2,7 @@ using System;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace Arkonaid_Game_Project
+namespace Arkonaid_game_Evez
 {
     public partial class Form1 : Form
     {
